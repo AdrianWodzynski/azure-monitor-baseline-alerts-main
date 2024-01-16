@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "Mateusz"
+      "value": "ScaleCompanyID"
     },
     "platformManagementGroup": {
-      "value": "Mateusz"
+      "value": "PlatformMGID"
     },
     "IdentityManagementGroup": {
-      "value": "Mateusz"
+      "value": "IdentityMGID"
     },
     "managementManagementGroup": {
-      "value": "Mateusz"
+      "value": "ManagementMGID"
     },
     "connectivityManagementGroup": {
-      "value": "Mateusz"
+      "value": "ConnectivityMGID"
     },
     "LandingZoneManagementGroup": {
-      "value": "Mateusz"
+      "value": "LandingZoneMGID"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -41,11 +41,11 @@
     "policyAssignmentParametersCommon": {
       "value": {
         "ALZMonitorResourceGroupName": {
-          "value": "rg-ambaadi-01"
+          "value": "rg-example-01"
         },
         "ALZMonitorResourceGroupTags": {
           "value": {
-            "Project": "rg-ambaadi-01"
+            "Project": "rg-example-01"
           }
         },
         "ALZMonitorResourceGroupLocation": {
