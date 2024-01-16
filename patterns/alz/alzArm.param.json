@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "contoso"
+      "value": "Mateusz"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "Mateusz"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "Mateusz"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "Mateusz"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "Mateusz"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "Mateusz"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -41,15 +41,15 @@
     "policyAssignmentParametersCommon": {
       "value": {
         "ALZMonitorResourceGroupName": {
-          "value": "rg-amba-monitoring-001"
+          "value": "rg-ambaadi-01"
         },
         "ALZMonitorResourceGroupTags": {
           "value": {
-            "Project": "amba-monitoring"
+            "Project": "rg-ambaadi-01"
           }
         },
         "ALZMonitorResourceGroupLocation": {
-          "value": "eastus"
+          "value": "westeurope"
         }
       }
     },
